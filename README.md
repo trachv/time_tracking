@@ -1,7 +1,9 @@
 # time_tracking
 
-A new Flutter project.
-
+Custom flutter app for time tracking.
+BackAnd on 1C Enterprise, exchange data on http and soap requests.
+App use external usb camera
+Work with Android API 22 and above
 ## Getting Started
 
 This project is a starting point for a Flutter application.
